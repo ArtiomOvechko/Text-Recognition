@@ -1,0 +1,9 @@
+C:\Users\zorka\documents\visual studio 2013\Projects\Text Recognition\Text Recognition\bin\Release\Text Recognition.exe.config
+C:\Users\zorka\documents\visual studio 2013\Projects\Text Recognition\Text Recognition\bin\Release\Text Recognition.exe
+C:\Users\zorka\documents\visual studio 2013\Projects\Text Recognition\Text Recognition\bin\Release\Text Recognition.pdb
+C:\Users\zorka\documents\visual studio 2013\Projects\Text Recognition\Text Recognition\obj\Release\Text Recognition.csprojResolveAssemblyReference.cache
+C:\Users\zorka\documents\visual studio 2013\Projects\Text Recognition\Text Recognition\obj\Release\Text_Recognition.Form1.resources
+C:\Users\zorka\documents\visual studio 2013\Projects\Text Recognition\Text Recognition\obj\Release\Text_Recognition.Properties.Resources.resources
+C:\Users\zorka\documents\visual studio 2013\Projects\Text Recognition\Text Recognition\obj\Release\Text Recognition.csproj.GenerateResource.Cache
+C:\Users\zorka\documents\visual studio 2013\Projects\Text Recognition\Text Recognition\obj\Release\Text Recognition.exe
+C:\Users\zorka\documents\visual studio 2013\Projects\Text Recognition\Text Recognition\obj\Release\Text Recognition.pdb
